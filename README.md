@@ -1,3 +1,7 @@
+This project is written in Java language
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![JAVAFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
+
 # Iterator for All Data Structures
 
 این پروژه شامل پیاده‌سازی ساختارهای داده‌ای مختلف به همراه **Iterator** برای هر کدام از آن‌ها است. ساختارهای داده‌ای پیاده‌سازی‌شده در این پروژه شامل **Linked List**، **Array**، **XOR Linked List**، **Vector** و **Stack** هستند. هدف این پروژه آموزش نحوه استفاده از **Iterator** برای پیمایش این ساختارها و درک بهتر مفاهیم آن‌ها است.
